@@ -1,0 +1,4 @@
+1. koneksi.php		==> mysql>mysqli+argumen
+2. proseslogin.php	==> mysql>mysqli+argumen
+3. registrasi.php	==> include, mysql>mysqli+argumen, jabatan>mahasiswa, 
+4. mhs/registrasi.php	==> 

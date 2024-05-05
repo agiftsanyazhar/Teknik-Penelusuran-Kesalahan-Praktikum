@@ -1,0 +1,3 @@
+Aku mencoba
+program untuk membaca teks! Apakah bisa ya?
+dan menampilkan hasilnya di layar.
